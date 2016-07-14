@@ -39,3 +39,6 @@
 - [On the Genealogy of Morals part 1: Meet Dr Nietzsche](https://www.theguardian.com/commentisfree/2008/oct/27/religion-atheism)
 - [The Frankfurt school, Part 1: why did Anders Breivik fear them?](https://www.theguardian.com/commentisfree/2013/mar/25/anders-breivik-frankfurt-school)
 - [Wes Cecil](https://www.youtube.com/channel/UC9ff15w4ufviWfv9UfIuByA/videos)
+
+## Politics
+- [Xenofeminism](http://www.laboriacuboniks.net/) [morgane]
