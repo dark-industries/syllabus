@@ -36,6 +36,7 @@
 - [design, social systems](https://s3.amazonaws.com/arena-attachments/644316/6239b04c39351f8c713d4b168762f7aa.pdf)
 - [The Awl: The Content Wars](https://theawl.com/tagged/the-content-wars)
 - [The philosopher's meme](https://thephilosophersmeme.com/)
+- [New York After Rent](https://toe.prx.org/2015/04/new-york-after-rent-i-of-iii/) [zech]
 - [On the Genealogy of Morals part 1: Meet Dr Nietzsche](https://www.theguardian.com/commentisfree/2008/oct/27/religion-atheism)
 - [The Frankfurt school, Part 1: why did Anders Breivik fear them?](https://www.theguardian.com/commentisfree/2013/mar/25/anders-breivik-frankfurt-school)
 - [Wes Cecil](https://www.youtube.com/channel/UC9ff15w4ufviWfv9UfIuByA/videos)
