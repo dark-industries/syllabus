@@ -17,6 +17,7 @@
 - [Evading the twin traps of positive thinking and nihilistic despair](http://conversations.e-flux.com/t/evading-the-twins-traps-of-positive-thinking-and-nihilistic-despair/4015)
 - [Ursula Le Guin - Those Who Walk Away From Omelas](http://engl210-deykute.wikispaces.umb.edu/file/view/omelas.pdf)
 - [The Moral Economy of Tech ](http://idlewords.com/talks/sase_panel.htm)
+- [The State of the Art](http://library.uniteddiversity.coop/More_Books_and_Reports/The_Culture_Novels-Iain_M_Bainks-Anarchist_Science_Fiction/iain%20m%20banks%20-%201989%20-%20the%20state%20of%20the%20art/Iain%20M.%20Banks%20-%20The%20State%20of%20the%20Art%20v1.html) [frnsys]
 - [the unexotic underclass](http://miter.mit.edu/the-unexotic-underclass/)
 - [Life-hacks of the poor and aimless](http://thebaffler.com/blog/laurie-penny-self-care#)
 - [MouthBreathing Machiavellis](http://thebaffler.com/blog/mouthbreathing-machiavellis)
