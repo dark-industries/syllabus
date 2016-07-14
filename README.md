@@ -23,6 +23,7 @@
 - [Hannah Arendt, Eichmann in Jerusalem](http://www.newyorker.com/magazine/1963/02/16/eichmann-in-jerusalem-i)
 - [To Keep and Bear Arms](http://www.nybooks.com/articles/1995/09/21/to-keep-and-bear-arms/)
 - [How to Write a History of Writing Software](http://www.theatlantic.com/technology/archive/2016/06/how-to-write-a-history-of-writing-software/489173/)
+- [A history of utopias in America](https://blog.longreads.com/2016/02/25/when-the-messiah-came-to-america-she-was-a-woman/) [frnsys]
 - [Edmund Burke - The Origins of Our Ideas of the Sublime and Beautiful](https://blogs.warwick.ac.uk/files/rvpsupperclub/burke_sublime_and_the_beautiful.pdf)
 - [Peter Singer & Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism)
 - [Elinor Ostrom & The Commons](https://en.wikipedia.org/wiki/Elinor_Ostrom)
