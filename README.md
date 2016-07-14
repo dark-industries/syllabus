@@ -30,6 +30,8 @@
 - [the unexotic underclass](http://miter.mit.edu/the-unexotic-underclass/)
 - [Unnecessariat](https://morecrows.wordpress.com/2016/05/10/unnecessariat/)
 - [Story of Your Life](https://mathisgasser.files.wordpress.com/2014/12/ted-chiang_story-of-your-life_2000.pdf)
+- [Uncanny Valley](https://nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/)
+- [The Awl: The Content Wars](https://theawl.com/tagged/the-content-wars)
 
 ## Aesthetics
 
