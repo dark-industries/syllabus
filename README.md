@@ -23,6 +23,7 @@
 - [An establishment conservative's guide to the alt-right](http://www.breitbart.com/tech/2016/03/29/an-establishment-conservatives-guide-to-the-alt-right/)
 - [Genealogy of Morals](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjGvbLMnPPNAhVIeCYKHRpeCqgQFggeMAA&url=http%3A%2F%2Fwww.inp.uw.edu.pl%2Fmdsie%2FPolitical_Thought%2FGeneologyofMorals.pdf&usg=AFQjCNGPPnJ_dx1lb6VHcQiEuIys9GFepQ)
 - [members of the frankfurt school, how facism happened](http://www.iep.utm.edu/frankfur/)
+- [The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm) [zech]
 - [Hannah Arendt, Eichmann in Jerusalem](http://www.newyorker.com/magazine/1963/02/16/eichmann-in-jerusalem-i)
 - [To Keep and Bear Arms](http://www.nybooks.com/articles/1995/09/21/to-keep-and-bear-arms/)
 - [How to Write a History of Writing Software](http://www.theatlantic.com/technology/archive/2016/06/how-to-write-a-history-of-writing-software/489173/)
