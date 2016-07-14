@@ -7,6 +7,9 @@
 ## Economics
 - [The Value of Nothing](https://www.amazon.com/dp/B0032BW5D4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
+## Feminism
+- [Men Explain Things To Me](https://www.goodreads.com/book/show/18528190-men-explain-things-to-me) [haley]
+
 ## Hodgepodge
 - [Anna Anthropy - Video Games and Trans Identity](Anna Anthropy, video games and trans identity)
 - [Freud - Civilization and its Discontents](http://72.52.202.216/~fenderse/freud_civilization_and_its_discontents.pdf)
