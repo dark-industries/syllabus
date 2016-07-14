@@ -1,6 +1,6 @@
 # syllabus
 
-##Hodgepodge
+## Hodgepodge
 
 - https://frankfurtschool.wordpress.com/2008/02/28/summary-dialectic-of-enlightenment/
 - https://www.youtube.com/channel/UC9ff15w4ufviWfv9UfIuByA/videos
@@ -8,7 +8,7 @@
 - [The Frankfurt school, Part 1: why did Anders Breivik fear them?] (https://www.theguardian.com/commentisfree/2013/mar/25/anders-breivik-frankfurt-school)
 - [Peter Singer & Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism)
 - [Elinor Ostrom & The Commons](https://en.wikipedia.org/wiki/Elinor_Ostrom)
-- [Ursula le Guin - Those Who Walk Away From Omelas](http://engl210-deykute.wikispaces.umb.edu/file/view/omelas.pdf)
+- [Ursula Le Guin - Those Who Walk Away From Omelas](http://engl210-deykute.wikispaces.umb.edu/file/view/omelas.pdf)
 - [Anna Anthropy - Video Games and Trans Identity](Anna Anthropy, video games and trans identity)
 - Nietzsche - [Genealogy of Morals](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjGvbLMnPPNAhVIeCYKHRpeCqgQFggeMAA&url=http%3A%2F%2Fwww.inp.uw.edu.pl%2Fmdsie%2FPolitical_Thought%2FGeneologyofMorals.pdf&usg=AFQjCNGPPnJ_dx1lb6VHcQiEuIys9GFepQ) and [Beyond Good and Evil](http://catdir.loc.gov/catdir/samples/cam031/2001035672.pdf)
 - [Freud - Civilization and its Discontents](http://72.52.202.216/~fenderse/freud_civilization_and_its_discontents.pdf)
@@ -31,6 +31,10 @@
 - [Unnecessariat](https://morecrows.wordpress.com/2016/05/10/unnecessariat/)
 - [Story of Your Life](https://mathisgasser.files.wordpress.com/2014/12/ted-chiang_story-of-your-life_2000.pdf)
 
+## Aesthetics
 
-##Economics
+- [Snackwave: A Comprehensive Guide To The Internet’s Saltiest Meme](https://thehairpin.com/snackwave-a-comprehensive-guide-to-the-internets-saltiest-meme-fa9db7dffb6e#.659v2kc8u)
+- [K-Hole brand reports](http://khole.net/)
+
+## Economics
 - Raj Patel, [The Value of Nothing](https://www.amazon.com/dp/B0032BW5D4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1); capitalism is ruining the world~*
