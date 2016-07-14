@@ -1,5 +1,6 @@
 # syllabus
 
+Hodgepodge
 - Peter Singer, [Effective Altruism](http://www.alternet.org/story/146958/peter_singer:_would_you_save_the_life_of_a_child)
 - Elinor Ostrom
 - Ursula le Guin's short story "Those Who Walk Away From Omelas"
@@ -13,3 +14,7 @@
 - Chris Novello's Computer Utopias class page
 - https://www.theguardian.com/commentisfree/2008/oct/27/religion-atheism
 - https://www.theguardian.com/commentisfree/2013/mar/25/anders-breivik-frankfurt-school
+
+
+Economics
+- Raj Patel, [The Value of Nothing](https://www.amazon.com/dp/B0032BW5D4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1); capitalism is ruining the world~*
