@@ -35,9 +35,9 @@
 
 ## Politics
 - [Xenofeminism](http://www.laboriacuboniks.net/) [morgane]
-- [Walter Benjamin, Work of Art in the Age of Mechanical Reproduction](https://phiffer.org/wp-content/media/2015/11/Benjamin-Walter-The-Work-of-Art-in-the-Age-of-Its-Mechanical-Reproducability.pdf)
-- [To Keep and Bear Arms](http://www.nybooks.com/articles/1995/09/21/to-keep-and-bear-arms/)
-- [Scary Negroes With Guns](http://thenewinquiry.com/essays/scary-negroes-with-guns/)
+- [Walter Benjamin, Work of Art in the Age of Mechanical Reproduction](https://phiffer.org/wp-content/media/2015/11/Benjamin-Walter-The-Work-of-Art-in-the-Age-of-Its-Mechanical-Reproducability.pdf) [gav]
+- [To Keep and Bear Arms](http://www.nybooks.com/articles/1995/09/21/to-keep-and-bear-arms/) [gav]
+- [Scary Negroes With Guns](http://thenewinquiry.com/essays/scary-negroes-with-guns/) [gav]
 - [The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm) [zech]
 
 ## Memes
@@ -54,7 +54,7 @@
 ## Design
 - [design, social systems](https://s3.amazonaws.com/arena-attachments/644316/6239b04c39351f8c713d4b168762f7aa.pdf)
 - [How to Write a History of Writing Software](http://www.theatlantic.com/technology/archive/2016/06/how-to-write-a-history-of-writing-software/489173/)
-- [Design is a Bureaucrat](http://thenewinquiry.com/essays/design-is-a-bureaucrat/)
+- [Design is a Bureaucrat](http://thenewinquiry.com/essays/design-is-a-bureaucrat/) [gav]
 - [Chris Novello's Computer Utopias Syllabus](http://chrisnovello.com/teaching/risd/computer-utopias/)
 
 ## Rightwing
