@@ -22,6 +22,7 @@
 - [The Web's Grain](http://www.frankchimero.com/writing/the-webs-grain/) [jyngo]
 - [How to Write a History of Writing Software](http://www.theatlantic.com/technology/archive/2016/06/how-to-write-a-history-of-writing-software/489173/)
 - [design, social systems](https://s3.amazonaws.com/arena-attachments/644316/6239b04c39351f8c713d4b168762f7aa.pdf)
+- [Designing Culture](https://www.jacobinmag.com/2012/08/designing-culture/) [ltwp]
 
 ## Economics
 - [A history of utopias in America](https://blog.longreads.com/2016/02/25/when-the-messiah-came-to-america-she-was-a-woman/) [frnsys]
