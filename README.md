@@ -2,6 +2,7 @@
 
 ## Aesthetics
 - [K-Hole brand reports](http://khole.net/)
+- [Propaganda of Pantone: Color and Subcultural Sublimation](http://www.lokidesign.net/journal/2016/2/22/the-propaganda-of-pantone-colour-and-subcultural-sublimation) [ltwp]
 - [Edmund Burke - The Origins of Our Ideas of the Sublime and Beautiful](https://blogs.warwick.ac.uk/files/rvpsupperclub/burke_sublime_and_the_beautiful.pdf)
 - [Snackwave: A Comprehensive Guide To The Internet’s Saltiest Meme](https://thehairpin.com/snackwave-a-comprehensive-guide-to-the-internets-saltiest-meme-fa9db7dffb6e#.659v2kc8u)
 
