@@ -31,6 +31,9 @@
 ## Feminism
 - [Men Explain Things To Me](https://www.goodreads.com/book/show/18528190-men-explain-things-to-me) [haley]
 
+## Further-Reading
+- [Places Journal Reading Lists](https://placesjournal.org/reading-lists/) [morgane]
+
 ## Hodgepodge
 - [Anna Anthropy - Video Games and Trans Identity](Anna Anthropy, video games and trans identity)
 - [The State of the Art](http://library.uniteddiversity.coop/More_Books_and_Reports/The_Culture_Novels-Iain_M_Bainks-Anarchist_Science_Fiction/iain%20m%20banks%20-%201989%20-%20the%20state%20of%20the%20art/Iain%20M.%20Banks%20-%20The%20State%20of%20the%20Art%20v1.html) [frnsys]
