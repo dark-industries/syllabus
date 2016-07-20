@@ -16,6 +16,7 @@
 
 ## Design
 - [Chris Novello's Computer Utopias Syllabus](http://chrisnovello.com/teaching/risd/computer-utopias/)
+- [Reading List](http://readinglist.info/) [ltwp]
 - [Design is a Bureaucrat](http://thenewinquiry.com/essays/design-is-a-bureaucrat/) [gav]
 - [The Web's Grain](http://www.frankchimero.com/writing/the-webs-grain/) [jyngo]
 - [How to Write a History of Writing Software](http://www.theatlantic.com/technology/archive/2016/06/how-to-write-a-history-of-writing-software/489173/)
