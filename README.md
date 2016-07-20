@@ -55,6 +55,7 @@
 - [Xenofeminism](http://www.laboriacuboniks.net/) [morgane]
 - [To Keep and Bear Arms](http://www.nybooks.com/articles/1995/09/21/to-keep-and-bear-arms/) [gav]
 - [Walter Benjamin, Work of Art in the Age of Mechanical Reproduction](https://phiffer.org/wp-content/media/2015/11/Benjamin-Walter-The-Work-of-Art-in-the-Age-of-Its-Mechanical-Reproducability.pdf) [gav]
+- [Four Futures⏳](https://www.jacobinmag.com/2011/12/four-futures/) [frnsys]
 
 ## Rightwing
 - [The Establishment Conservative's Guide to the Alt Right](http://archive.is/tDf22)
