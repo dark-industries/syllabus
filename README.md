@@ -6,6 +6,9 @@
 - [Edmund Burke - The Origins of Our Ideas of the Sublime and Beautiful](https://blogs.warwick.ac.uk/files/rvpsupperclub/burke_sublime_and_the_beautiful.pdf)
 - [Snackwave: A Comprehensive Guide To The Internet’s Saltiest Meme](https://thehairpin.com/snackwave-a-comprehensive-guide-to-the-internets-saltiest-meme-fa9db7dffb6e#.659v2kc8u)
 
+## Blackness
+- [Black Vernacular: Reading New Media](http://martinesyms.com/black-vernacular-reading-new-media/) [ltwp]
+
 ## Classics
 - [Freud - Civilization and its Discontents](http://72.52.202.216/~fenderse/freud_civilization_and_its_discontents.pdf)
 - [Nietzsche - Beyond Good and Evil](http://catdir.loc.gov/catdir/samples/cam031/2001035672.pdf)
