@@ -50,6 +50,9 @@
 ## Memes
 - [The philosopher's meme](https://thephilosophersmeme.com/)
 
+## Poetry
+- [Autobiography of Red](https://www.amazon.com/Autobiography-Red-Anne-Carson/dp/037570129X) [jschear]
+
 ## Politics
 - [Scary Negroes With Guns](http://thenewinquiry.com/essays/scary-negroes-with-guns/) [gav]
 - [The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm) [zech]
