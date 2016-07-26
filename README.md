@@ -9,6 +9,9 @@
 ## Blackness
 - [Black Vernacular: Reading New Media](http://martinesyms.com/black-vernacular-reading-new-media/) [ltwp]
 
+## Cities
+- [Radical Cities: Across Latin America in Search of a New Architecture](https://www.versobooks.com/books/2011-radical-cities) [frnsys]
+
 ## Classics
 - [Freud - Civilization and its Discontents](http://72.52.202.216/~fenderse/freud_civilization_and_its_discontents.pdf)
 - [Nietzsche - Beyond Good and Evil](http://catdir.loc.gov/catdir/samples/cam031/2001035672.pdf)
