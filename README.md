@@ -38,6 +38,9 @@
 - [The Value of Nothing](https://www.amazon.com/dp/B0032BW5D4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Varoufakis's Foundations of Economics](https://yanisvaroufakis.eu/books/foundations-of-economics-a-beginners-companion/) [frnsys]
 
+## Ethics
+- [Reflections on the Guillotine](http://www.deakinphilosophicalsociety.com/texts/camus/reflections.pdf) [haley]
+
 ## Feminism
 - [Men Explain Things To Me](https://www.goodreads.com/book/show/18528190-men-explain-things-to-me) [haley]
 
@@ -54,7 +57,7 @@
 - [The philosopher's meme](https://thephilosophersmeme.com/)
 
 ## Philosophy
-- [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) [morgane]
+- [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)
 
 ## Poetry
 - [Autobiography of Red](https://www.amazon.com/Autobiography-Red-Anne-Carson/dp/037570129X) [jschear]
