@@ -53,6 +53,9 @@
 ## Memes
 - [The philosopher's meme](https://thephilosophersmeme.com/)
 
+## Philosophy
+- [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) [morgane]
+
 ## Poetry
 - [Autobiography of Red](https://www.amazon.com/Autobiography-Red-Anne-Carson/dp/037570129X) [jschear]
 
