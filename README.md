@@ -60,6 +60,7 @@
 - [The philosopher's meme](https://thephilosophersmeme.com/)
 
 ## Philosophy
+- [“The Bound Man”](https://dl.dropboxusercontent.com/u/49408763/reads/the_bound_man.pdf) [devin]
 - [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)
 
 ## Poetry
