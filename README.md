@@ -32,6 +32,7 @@
 - [Designing Culture](https://www.jacobinmag.com/2012/08/designing-culture/) [ltwp]
 
 ## Economics
+- [The Worldly Philosophers](http://www.goodreads.com/book/show/82120.The_Worldly_Philosophers) [frnsys]
 - [A history of utopias in America](https://blog.longreads.com/2016/02/25/when-the-messiah-came-to-america-she-was-a-woman/) [frnsys]
 - [Elinor Ostrom & The Commons](https://en.wikipedia.org/wiki/Elinor_Ostrom)
 - [New York After Rent](https://toe.prx.org/2015/04/new-york-after-rent-i-of-iii/) [zech]
