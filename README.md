@@ -86,6 +86,9 @@
 - [Evading the twin traps of positive thinking and nihilistic despair](http://conversations.e-flux.com/t/evading-the-twins-traps-of-positive-thinking-and-nihilistic-despair/4015)
 - [Life-hacks of the poor and aimless](http://thebaffler.com/blog/laurie-penny-self-care#)
 
+## Sociology
+- [Moral Mazes](http://www.goodreads.com/book/show/279812.Moral_Mazes) [frnsys]
+
 ## Tech
 - [The Moral Economy of Tech ](http://idlewords.com/talks/sase_panel.htm)
 - [the unexotic underclass](http://miter.mit.edu/the-unexotic-underclass/)
