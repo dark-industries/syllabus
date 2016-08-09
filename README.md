@@ -57,6 +57,9 @@
 - [Hannah Arendt, Eichmann in Jerusalem](http://www.newyorker.com/magazine/1963/02/16/eichmann-in-jerusalem-i)
 - [Story of Your Life](https://mathisgasser.files.wordpress.com/2014/12/ted-chiang_story-of-your-life_2000.pdf)
 
+## Lists
+- [Death Acceptance Reading Lists](http://www.orderofthegooddeath.com/last-death-book-reading-list) [morgane]
+
 ## Memes
 - [The philosopher's meme](https://thephilosophersmeme.com/)
 
