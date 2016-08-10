@@ -24,6 +24,7 @@
 
 ## Design
 - [Chris Novello's Computer Utopias Syllabus](http://chrisnovello.com/teaching/risd/computer-utopias/)
+- [Immaterial Design](http://expiredmag.com/immaterial-design/) [bearwhale]
 - [What We Talk About When We Talk About What We Talk About When We Talk About Making](http://quietbabylon.com/2014/what-we-talk-about-when-we-talk-about-what-we-talk-about-when-we-talk-about-making/) [ltwp]
 - [Reading List](http://readinglist.info/) [ltwp]
 - [Design is a Bureaucrat](http://thenewinquiry.com/essays/design-is-a-bureaucrat/) [gav]
