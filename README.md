@@ -79,6 +79,9 @@
 - [Walter Benjamin, Work of Art in the Age of Mechanical Reproduction](https://phiffer.org/wp-content/media/2015/11/Benjamin-Walter-The-Work-of-Art-in-the-Age-of-Its-Mechanical-Reproducability.pdf) [gav]
 - [Four Futures⏳](https://www.jacobinmag.com/2011/12/four-futures/) [frnsys]
 
+## Queer
+- [Trans Body’s Path in 8 Folds](http://www.kenyonreview.org/kr-online-issue/2016-summer/selections/cooper-lee-bombardier-656342/) [brook]
+
 ## Rightwing
 - [The Establishment Conservative's Guide to the Alt Right](http://archive.is/tDf22)
 - [MouthBreathing Machiavellis](http://thebaffler.com/blog/mouthbreathing-machiavellis)
