@@ -99,6 +99,7 @@
 - [Moral Mazes](http://www.goodreads.com/book/show/279812.Moral_Mazes) [frnsys]
 
 ## Tech
+- [A Cyborg Manifesto](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) [frnsys]
 - [The Moral Economy of Tech ](http://idlewords.com/talks/sase_panel.htm)
 - [the unexotic underclass](http://miter.mit.edu/the-unexotic-underclass/)
 - [Peter Singer & Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism)
