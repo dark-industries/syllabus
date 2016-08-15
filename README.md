@@ -52,6 +52,7 @@
 
 ## History
 - [The End of Days is Coming— Just Not to China](https://foreignpolicy.com/2016/07/29/the-end-of-days-is-coming-just-not-to-china-apocalyptic-fiction-movies/) [morgane]
+- [Deep Time of the Media](https://mitpress.mit.edu/books/deep-time-media) [milan]
 
 ## Hodgepodge
 - [Anna Anthropy - Video Games and Trans Identity](Anna Anthropy, video games and trans identity)
