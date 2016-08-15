@@ -1,6 +1,7 @@
 # syllabus
 
 ## Aesthetics
+- [In Praise of Shadows](http://dcrit.sva.edu/wp-content/uploads/2010/10/In-Praise-of-Shadows-Junichiro-Tanizaki.pdf) [milan]
 - [K-Hole brand reports](http://khole.net/)
 - [Propaganda of Pantone: Color and Subcultural Sublimation](http://www.lokidesign.net/journal/2016/2/22/the-propaganda-of-pantone-colour-and-subcultural-sublimation) [ltwp]
 - [The Last Lifestyle Magazine (Kinfolk)](http://www.racked.com/2016/3/14/11173148/kinfolk-lifestyle-magazines) [zech]
