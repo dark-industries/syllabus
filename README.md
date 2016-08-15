@@ -23,6 +23,9 @@
 - [On the Genealogy of Morals part 1: Meet Dr Nietzsche](https://www.theguardian.com/commentisfree/2008/oct/27/religion-atheism)
 - [Wes Cecil](https://www.youtube.com/channel/UC9ff15w4ufviWfv9UfIuByA/videos)
 
+## Culture
+- [Society of the Spectacle](https://www.marxists.org/reference/archive/debord/society.htm) [frnsys]
+
 ## Design
 - [Chris Novello's Computer Utopias Syllabus](http://chrisnovello.com/teaching/risd/computer-utopias/)
 - [Immaterial Design](http://expiredmag.com/immaterial-design/) [bearwhale]
